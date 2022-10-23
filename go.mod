@@ -1,4 +1,4 @@
-module mvdan.cc/xurls/v2
+module tfp/xurls
 
 go 1.18
 
