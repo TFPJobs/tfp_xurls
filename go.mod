@@ -1,4 +1,4 @@
-module tfp/xurls
+module github.com/TFPJobs/tfp_xurls
 
 go 1.18
 
